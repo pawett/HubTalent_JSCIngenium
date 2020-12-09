@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HubTalent_JSCIngenium", "HubTalent_JSCIngenium\HubTalent_JSCIngenium.csproj", "{FBEC5953-E198-4BDC-82EC-32A9B1F010A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R2D2Test", "R2D2Test\R2D2Test.csproj", "{8819938D-DBF1-4155-BB32-DB2C3D1E6298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBEC5953-E198-4BDC-82EC-32A9B1F010A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEC5953-E198-4BDC-82EC-32A9B1F010A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEC5953-E198-4BDC-82EC-32A9B1F010A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEC5953-E198-4BDC-82EC-32A9B1F010A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8819938D-DBF1-4155-BB32-DB2C3D1E6298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8819938D-DBF1-4155-BB32-DB2C3D1E6298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8819938D-DBF1-4155-BB32-DB2C3D1E6298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8819938D-DBF1-4155-BB32-DB2C3D1E6298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D28FB7EF-E1EC-4BE3-8AD5-B1863705EBCE}
+	EndGlobalSection
+EndGlobal
